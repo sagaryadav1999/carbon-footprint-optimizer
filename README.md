@@ -16,6 +16,7 @@ Traditional logistics systems prioritize cost and time, often neglecting environ
 
 ## 📂 Project Structure
 icbp/
+
 ├── app.py # Streamlit web app for prediction
 
 ├── final_project_.ipynb # Jupyter notebook for model training and analysis
