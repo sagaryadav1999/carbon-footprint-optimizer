@@ -17,10 +17,15 @@ Traditional logistics systems prioritize cost and time, often neglecting environ
 ## 📂 Project Structure
 icbp/
 ├── app.py # Streamlit web app for prediction
+
 ├── final_project_.ipynb # Jupyter notebook for model training and analysis
+
 ├── carbon_emission_model.keras # Trained deep learning model
+
 ├── carbon_footprint_logistics.csv # Dataset used for training
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 
